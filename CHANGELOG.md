@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.0.33](https://github.com/spectrocloud-labs/validator/compare/v0.0.32...v0.0.33) (2024-01-04)
+
+
+### Bug Fixes
+
+* **deps:** update golang.org/x/exp digest to be819d1 ([#171](https://github.com/spectrocloud-labs/validator/issues/171)) ([6d5d2a2](https://github.com/spectrocloud-labs/validator/commit/6d5d2a2c5fe210647db4d347b83b81fe7486e31b))
+
+
+### Other
+
+* **deps:** update anchore/sbom-action action to v0.15.2 ([#170](https://github.com/spectrocloud-labs/validator/issues/170)) ([a37185a](https://github.com/spectrocloud-labs/validator/commit/a37185abcff714d1eb00d5eee9fef7ef82f18bbf))
+
 ## [0.0.32](https://github.com/spectrocloud-labs/validator/compare/v0.0.31...v0.0.32) (2023-12-27)
 
 
