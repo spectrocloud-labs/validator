@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.44](https://github.com/validator-labs/validator/compare/v0.0.43...v0.0.44) (2024-06-27)
+
+
+### Other
+
+* remove get-os.sh ([7c7865e](https://github.com/validator-labs/validator/commit/7c7865eedde12478d8d3ff49e07c077cc5fb61af))
+
 ## [0.0.43](https://github.com/validator-labs/validator/compare/v0.0.42...v0.0.43) (2024-06-21)
 
 
